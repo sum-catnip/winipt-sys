@@ -1,6 +1,6 @@
 [package]
 name = "winipt-sys"
-version = "0.1.0"
+version = "0.1.1"
 description = "raw bindings to the winipt library (for interacting with the windows intel processor tracing driver)"
 repository = "https://github.com/sum-catnip/winipt-sys"
 documentation = "https://docs.rs/winipt-sys/0.1.0/winipt_sys/"
